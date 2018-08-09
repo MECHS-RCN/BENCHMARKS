@@ -8,7 +8,7 @@ Resources available include:
 * Hybrid Simulation Research Agenda  2018
 * Background Documents and Reports
 * HS Projects with Data
-* Benchmarks Problems
+* Benchmark Problems
 * Sample Tools and Codes
 * Technical Reports and Publications
 * Learning materials
