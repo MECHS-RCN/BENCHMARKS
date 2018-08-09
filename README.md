@@ -1,14 +1,2 @@
-# RESOURCES
-A majority of past applications of hybrid simulation have been in earthquake engineering, although there is great potential to impact a much broader set of problems by expanding the scope and capabilities of hybrid simulation to address a broad array of multi-hazard engineering research problems.
-
-Traditional hybrid simulation is conducted at an extended time scale, typically uses higher-order computational models, and is applied when rate-dependence is not significant in the physical subsystem. Real-time hybrid simulation is needed when rate dependence plays a significant role in the dynamics of the physical subsystem, and it often uses both high-fidelity control of the actuation system and real-time execution of the computational models and associated supervisory tasks. Furthermore, geographically-distributed hybrid simulation and geographically-distributed real-time hybrid simulation have been demonstrated in isolated cases to further expand the range of possible experiments by coupling multiple laboratories.
-
-Resources available include:
-
-* Hybrid Simulation Research Agenda  2018
-* Background Documents and Reports
-* HS Projects with Data
-* Benchmark Problems
-* Sample Tools and Codes
-* Technical Reports and Publications
-* Learning materials
+# A Benchmark Control Problem for Real-Time Hybrid Simulation
+A benchmark problem statement for real-time hybrid simulation (RTHS) of a seismically excited building has been developed, and is presented to the community with the aim to advance the field. Although numerous RTHS control algorithms have been examined in recent years with computational simulation, few verifications have been validated in the laboratory or with realistic models that include uncertainty. This RTHS benchmark control problem has been developed to address this gap. It includes realistic models of the physical components, parametric uncertainties, and control constraints. We anticipate that the lessons learned through this benchmark problem will provide a clear basis for evaluating the efficacy of various transfer system control strategies and expose research questions.
